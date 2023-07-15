@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ONIXMessage SYSTEM "http://www.editeur.org/onix/2.1/reference/onix-international.dtd">
+<ONIXMessage>
+<Header>
+<FromCompany>Ingram Content Group</FromCompany>
+<FromPerson>CoreSource</FromPerson>
+<FromEmail>partnersupport@ingramcontent.com</FromEmail>
+<ToCompany>Abantu Audio - 2.1 No Conversion</ToCompany>
+<SentDate>202209140208</SentDate>
+</Header>
+<Product>
+<RecordReference>9781649041227</RecordReference>
+<NotificationType>02</NotificationType>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781649041227</IDValue>
+</ProductIdentifier>
+<ProductIdentifier>
+<ProductIDType>02</ProductIDType>
+<IDValue>1649041225</IDValue>
+</ProductIdentifier>
+<ProductIdentifier>
+<ProductIDType>14</ProductIDType>
+<IDValue>09781649041227</IDValue>
+</ProductIdentifier>
+<ProductIdentifier>
+<ProductIDType>03</ProductIDType>
+<IDValue>9781649041227</IDValue>
+</ProductIdentifier>
+<ProductIdentifier>
+<ProductIDType>01</ProductIDType>
+<IDTypeName>Library ISBN</IDTypeName>
+<IDValue>9781668625132</IDValue>
+</ProductIdentifier>
+<ProductForm>AJ</ProductForm>
+<ProductFormDescription>Lossless Format Audio, WAV</ProductFormDescription>
+<ProductContentType>01</ProductContentType>
+<NoSeries/>
+<Title>
+<TitleType>01</TitleType>
+<TitleText>Somewhere Sisters</TitleText>
+<Subtitle>A Story of Adoption, Identity, and the Meaning of Family</Subtitle>
+</Title>
+<WorkIdentifier>
+<WorkIDType>01</WorkIDType>
+<IDValue>9781616209124</IDValue>
+</WorkIdentifier>
+<Contributor>
+<SequenceNumber>1</SequenceNumber>
+<ContributorRole>A01</ContributorRole>
+<PersonName>Erika Hayasaki</PersonName>
+<PersonNameInverted>Hayasaki, Erika</PersonNameInverted>
+<NamesBeforeKey>Erika</NamesBeforeKey>
+<KeyNames>Hayasaki</KeyNames>
+</Contributor>
+<Contributor>
+<SequenceNumber>2</SequenceNumber>
+<ContributorRole>E07</ContributorRole>
+<PersonName>VyVy Nguyen</PersonName>
+<PersonNameInverted>Nguyen, VyVy</PersonNameInverted>
+<NamesBeforeKey>VyVy</NamesBeforeKey>
+<KeyNames>Nguyen</KeyNames>
+</Contributor>
+<EditionTypeCode>UBR</EditionTypeCode>
+<Language>
+<LanguageRole>01</LanguageRole>
+<LanguageCode>eng</LanguageCode>
+</Language>
+<Extent>
+<ExtentType>09</ExtentType>
+<ExtentValue>483</ExtentValue>
+<ExtentUnit>05</ExtentUnit>
+</Extent>
+<BASICMainSubject>FAM004000</BASICMainSubject>
+<Subject>
+<SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+<SubjectCode>SOC043000</SubjectCode>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+<SubjectCode>BIO000000</SubjectCode>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+<SubjectHeadingText>books about adoption;interracial adoption;intercountry adoption;race and identity;Asian-American stories;books by Asian-American women;adoptees;twins separated at birth;Vietnamese adoption;Japanese-American authors;twin genetic studies;nature versus nurture;Vietnam War;Operation Babylift;adoptees for justice;narrative nonfiction;investigative journalism;prize-winning authors</SubjectHeadingText>
+</Subject>
+<AudienceCode>01</AudienceCode>
+<Audience>
+<AudienceCodeType>01</AudienceCodeType>
+<AudienceCodeValue>01</AudienceCodeValue>
+</Audience>
+<OtherText>
+<TextTypeCode>01</TextTypeCode>
+<TextFormat>02</TextFormat>
+<Text><![CDATA[<P><B>Identical twins Isabella and H&agrave; were born in Vietnam and raised on opposite sides of the world, each knowing little about the other&rsquo;s existence, until they were reunited as teenagers, against all odds.</B><BR /> &#160;<BR /> The twins were born in Nha Trang, Vietnam, in 1998, where their mother struggled to care for them. H&agrave; was taken in by their biological aunt, and grew up in a rural village, going to school, and playing outside with the neighbors. They had sporadic electricity and frequent monsoons. H&agrave;&rsquo;s twin sister, Loan, spent time in an orphanage before a wealthy, white American family adopted her and renamed her Isabella. Isabella grew up in the suburbs of Chicago, with a nonbiological sister, Olivia, also adopted from Vietnam. Isabella and Olivia attended a predominantly white Catholic school, played soccer, and prepared for college.<BR /><BR /> But when Isabella&rsquo;s adoptive mother learned of Isabella&rsquo;s biological twin back in Vietnam, all of their lives changed forever. Award-winning journalist Erika Hayasaki spent years and hundreds of hours interviewing each of the birth and adoptive family members and tells the girls&rsquo; incredible story from their perspectives, challenging conceptions about adoption and what it means to give a child a good life. Hayasaki contextualizes the sisters&rsquo; experiences with the fascinating and often sinister history of twin studies, the nature versus nurture debate, and intercountry and transracial adoption, as well as the latest scholarship and conversation surrounding adoption today, especially among adoptees.<BR /><BR /> For readers of <I>All You Can Ever Know</I> and <I>American Baby</I>, <I>Somewhere Sisters</I> is a richly textured, moving story of sisterhood and coming-of-age, told through the remarkable lives of young women who have redefined the meaning of family for themselves.</P>]]></Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>13</TextTypeCode>
+<TextFormat>02</TextFormat>
+<Text><![CDATA[<DIV>Erika Hayasaki is a journalist based in Southern California, the author of <I>The Death Class</I>, and a professor&#160;in the&#160;Literary Journalism Department&#160;at the University of California, Irvine. Her writing has appeared in the <I>New York Times Magazine</I>, the <I>New Yorker</I>, the <I>Atlantic</I>, <I>Wired</I>, <I>Slate</I>, and others. She has been a 2021-22 Knight-Wallace Reporting Fellow and a 2018 Alicia Patterson Fellow and received awards from the Association of Sunday Feature Editors, the Society for Features Journalism, and the American Society of Newspaper Editors. She is the mother of a daughter and twin boys (who are monozygotic, or identical&mdash;but not).</DIV>]]></Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>08</TextTypeCode>
+<TextFormat>02</TextFormat>
+<Text><![CDATA[&quot;<I>Somewhere Sisters</I> is stirring and unforgettable &mdash; a breathtaking adoption saga like no other; a provocative exploration into the ideas of family and belonging; and a deeply meaningful meditation on what makes us who we are and what connects us to one another.&rdquo;—<i><b>Robert Kolker, New York Times-bestselling author of Hidden Valley Road and Lost Girls</b></i>]]></Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>08</TextTypeCode>
+<TextFormat>02</TextFormat>
+<Text><![CDATA[&ldquo;<I>Somewhere Sisters</I>&#160;is a heartbreaking, many times maddening tale of three adoptees, two of whom are twins separated at birth, who find themselves at the intersection of nature and nurture, fighting against fate and circumstance to carve out their own destinies. Seamlessly weaving historical context with brilliant reportage, Hayasaki delivers an incisive and poignant exploration of the world of transracial adoption and twinship, bearing witness to the profound struggles of those caught between two worlds, trying to define themselves.&rdquo;&#160;—<i><b>Ly Tran, author of House of Sticks</b></i>]]></Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>08</TextTypeCode>
+<TextFormat>02</TextFormat>
+<Text><![CDATA[&quot;Deeply researched, artfully woven, and lyrically written, <I>Somewhere Sisters</I> explores the harsh reality behind international transracial adoption. Hayasaki is a master storyteller, and her compassion for her subjects is evident on every page. Her meticulous exploration into the dark legacy of nature-nurture studies, American saviorism, and the science of attachment is a powerful addition to our understanding of the lifelong impact of adoption.&quot;—<i><b>Gabrielle Glaser, author of the New York Times notable book American Baby</b></i>]]></Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>08</TextTypeCode>
+<TextFormat>02</TextFormat>
+<Text><![CDATA[<BR /> &ldquo;Well-researched and compassionately written,&#160;<I>Somewhere Sisters</I>&#160;is a journey from separations to reunions, from individual lives to the history of adoption. Urgent and compelling, this book asks important questions about responsibility and ethics and will inspire all of us as we work toward a more responsible and inclusive society.&rdquo;—<i><b>Nguy?n Phan Qu? Mai, author of the international bestseller The Mountains Sing</b></i>]]></Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>08</TextTypeCode>
+<TextFormat>02</TextFormat>
+<Text><![CDATA[&quot;Erika Hayasaki has produced an elegant exploration of race and nationality. This intimate, meticulously reported portrait of an impoverished Vietnamese mother and her twin daughters, who were separated by adoption, is a not only a compelling story, but one that touches on profound questions of human identity.&rdquo;—<i><b>—Barbara Demick, author of Eat the Buddha: Life and Death in a Tibetan Town and Nothing to Envy: Ordinary Lives in North Korea</b></i>]]></Text>
+</OtherText>
+<Imprint>
+<NameCodeType>01</NameCodeType>
+<NameCodeValue>010470</NameCodeValue>
+<ImprintName>Algonquin Books</ImprintName>
+</Imprint>
+<Publisher>
+<PublishingRole>01</PublishingRole>
+<NameCodeType>01</NameCodeType>
+<NameCodeValue>Hachette Audio</NameCodeValue>
+<PublisherName>Hachette Audio</PublisherName>
+</Publisher>
+<PublishingStatus>02</PublishingStatus>
+<PublicationDate>20221011</PublicationDate>
+<SalesRights>
+<SalesRightsType>01</SalesRightsType>
+<RightsCountry>AD AE AF AG AI AL AM AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BQ BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CW CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR SS ST SV SX SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW</RightsCountry>
+</SalesRights>
+<RelatedProduct>
+<RelationCode>13</RelationCode>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781616209124</IDValue>
+</ProductIdentifier>
+</RelatedProduct>
+<RelatedProduct>
+<RelationCode>06</RelationCode>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781616209124</IDValue>
+</ProductIdentifier>
+</RelatedProduct>
+<SupplyDetail>
+<SupplierName>Hachette Book Group USA</SupplierName>
+<SupplierRole>00</SupplierRole>
+<SupplyToTerritory>WORLD</SupplyToTerritory>
+<ReturnsCodeType>02</ReturnsCodeType>
+<ReturnsCode>N</ReturnsCode>
+<AvailabilityCode>NP</AvailabilityCode>
+<ProductAvailability>11</ProductAvailability>
+<OnSaleDate>20221011</OnSaleDate>
+<Price>
+<PriceTypeCode>01</PriceTypeCode>
+<DiscountCoded>
+<DiscountCodeType>02</DiscountCodeType>
+<DiscountCodeTypeName>HBG</DiscountCodeTypeName>
+<DiscountCode>XL</DiscountCode>
+</DiscountCoded>
+<PriceAmount>23.95</PriceAmount>
+<CurrencyCode>USD</CurrencyCode>
+<Territory>WORLD</Territory>
+<PriceEffectiveFrom>20211021</PriceEffectiveFrom>
+</Price>
+<Price>
+<PriceTypeCode>01</PriceTypeCode>
+<DiscountCoded>
+<DiscountCodeType>02</DiscountCodeType>
+<DiscountCodeTypeName>HBG</DiscountCodeTypeName>
+<DiscountCode>XL</DiscountCode>
+</DiscountCoded>
+<PriceAmount>32.98</PriceAmount>
+<CurrencyCode>CAD</CurrencyCode>
+<Territory>WORLD</Territory>
+<PriceEffectiveFrom>20220627</PriceEffectiveFrom>
+</Price>
+</SupplyDetail>
+<MarketRepresentation>
+<AgentName>Hachette Audio</AgentName>
+<AgentRole>07</AgentRole>
+<MarketTerritory>WORLD</MarketTerritory>
+<MarketPublishingStatus>02</MarketPublishingStatus>
+<MarketDate>
+<MarketDateRole>01</MarketDateRole>
+<DateFormat>00</DateFormat>
+<Date>20221011</Date>
+</MarketDate>
+</MarketRepresentation>
+</Product>
+</ONIXMessage>

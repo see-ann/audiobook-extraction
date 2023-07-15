@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ONIXMessage SYSTEM "http://www.editeur.org/onix/2.1/reference/onix-international.dtd">
+<ONIXMessage>
+<Header>
+<FromCompany>Ingram Content Group</FromCompany>
+<FromPerson>CoreSource</FromPerson>
+<FromEmail>partnersupport@ingramcontent.com</FromEmail>
+<ToCompany>Abantu Audio - 2.1 No Conversion</ToCompany>
+<SentDate>202201080115</SentDate>
+</Header>
+<Product>
+<RecordReference>9781549175923</RecordReference>
+<NotificationType>03</NotificationType>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781549175923</IDValue>
+</ProductIdentifier>
+<ProductIdentifier>
+<ProductIDType>02</ProductIDType>
+<IDValue>1549175920</IDValue>
+</ProductIdentifier>
+<ProductIdentifier>
+<ProductIDType>14</ProductIDType>
+<IDValue>09781549175923</IDValue>
+</ProductIdentifier>
+<ProductIdentifier>
+<ProductIDType>03</ProductIDType>
+<IDValue>9781549175923</IDValue>
+</ProductIdentifier>
+<ProductIdentifier>
+<ProductIDType>01</ProductIDType>
+<IDTypeName>Library ISBN</IDTypeName>
+<IDValue>9781549182877</IDValue>
+</ProductIdentifier>
+<ProductForm>AJ</ProductForm>
+<ProductFormDescription>Lossless Format Audio, WAV</ProductFormDescription>
+<NoSeries/>
+<Title>
+<TitleType>01</TitleType>
+<TitleText>Born for This</TitleText>
+<Subtitle>My Story in Music</Subtitle>
+</Title>
+<WorkIdentifier>
+<WorkIDType>01</WorkIDType>
+<IDValue>9781546009894</IDValue>
+</WorkIdentifier>
+<Contributor>
+<SequenceNumber>1</SequenceNumber>
+<ContributorRole>A01</ContributorRole>
+<PersonName>BeBe Winans</PersonName>
+<PersonNameInverted>Winans, BeBe</PersonNameInverted>
+<NamesBeforeKey>BeBe</NamesBeforeKey>
+<KeyNames>Winans</KeyNames>
+</Contributor>
+<Contributor>
+<SequenceNumber>2</SequenceNumber>
+<ContributorRole>E07</ContributorRole>
+<PersonName>BeBe Winans</PersonName>
+<PersonNameInverted>Winans, BeBe</PersonNameInverted>
+<NamesBeforeKey>BeBe</NamesBeforeKey>
+<KeyNames>Winans</KeyNames>
+</Contributor>
+<EditionTypeCode>UBR</EditionTypeCode>
+<EditionStatement>retail</EditionStatement>
+<Language>
+<LanguageRole>01</LanguageRole>
+<LanguageCode>eng</LanguageCode>
+</Language>
+<Extent>
+<ExtentType>09</ExtentType>
+<ExtentValue>345</ExtentValue>
+<ExtentUnit>05</ExtentUnit>
+</Extent>
+<BASICMainSubject>REL012040</BASICMainSubject>
+<Subject>
+<SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+<SubjectCode>BIO026000</SubjectCode>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+<SubjectCode>REL012170</SubjectCode>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+<SubjectCode>BIO005000</SubjectCode>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+<SubjectCode>REL012070</SubjectCode>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+<SubjectHeadingText>christian memoirs;music industry books;christian inspirational books;christian biography;praise and worship;contemporary christian music;top gospel artists;gospel music history;spiritual self help books;finding my purpose christian book;christian books about music;gifts for christian men;gifts for christian women</SubjectHeadingText>
+</Subject>
+<AudienceCode>01</AudienceCode>
+<Audience>
+<AudienceCodeType>01</AudienceCodeType>
+<AudienceCodeValue>01</AudienceCodeValue>
+</Audience>
+<OtherText>
+<TextTypeCode>01</TextTypeCode>
+<TextFormat>02</TextFormat>
+<Text><![CDATA[<DIV><DIV><B>BeBe Winans, six-time Grammy Award-winning singer and member of Gospel music's royal family, shares the candid and close-up journey of pursuing his dreams while holding on to his faith.</B></DIV><br><DIV><DIV>Benjamin "BeBe" Winans always knew he was born to be a Gospel singer. Growing up watching his four older brothers perform fueled his dream to be on stage, and as teenagers, he and his younger sister CeCe were offered the opportunity to move from Detroit to North Carolina and join the Praise the Lord Singers for <I>The PTL Club</I>, hosted by the eccentric Jim and Tammy Faye Bakker. Under the Bakkers' wings, BeBe and CeCe became the most popular televangical stars in America and soon found themselves choosing between their family values and the temptations of fame and fortune.</DIV><DIV><br></DIV><DIV>Like a conversation with a lifelong friend, BeBe invites readers and loyal fans alike to share in never-before-revealed details about life in the crossfires between church, Gospel music, and the mainstream recording industry. He shares personal stories about his mentor Andraé Crouch and close friend Whitney Houston, who both had a major impact on his life.</DIV><DIV><br></DIV><DIV>As he reflects on the obstacles, the disappointments, the victories, the surprises, the racism, and the love he has encountered, he realizes that when we understand our value before God, we can participate in a daily glory and peace for which we were all born.</DIV></DIV></DIV>]]></Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>13</TextTypeCode>
+<TextFormat>02</TextFormat>
+<Text><![CDATA[BEBE WINANS, is the seventh child and youngest male of the Detroit-based first family of Gospel music. BeBe, a six-time Grammy Award winner, is best known as an inspirational, R&B, and popular vocalist/songwriter, who along with his musical partner and sister CeCe Winans were the first true Christian crossover artists to hit the mainstream. He has worked behind the scenes on many projects including his role as an executive music producer for <I>Greenleaf</I>, a series on the Oprah Winfrey Network. He is also host of his own radio show, <I>The BeBe Experience</I>, on the Heart & Soul Channel (68) on Sirius/XM Radio Networks. His critically acclaimed musical, <I>Born for This</I>, won multiple honors at the 2019 NAACP Theatre Awards, as well as a 2019 IRNE Award. He is also the author of <I>The Whitney I Knew</I>, a book about his relationship with his dear friend Whitney Houston. BeBe lives in Nashville, Tennessee.]]></Text>
+</OtherText>
+<Imprint>
+<NameCodeType>01</NameCodeType>
+<NameCodeValue>010404</NameCodeValue>
+<ImprintName>Faith Words</ImprintName>
+</Imprint>
+<Publisher>
+<PublishingRole>01</PublishingRole>
+<NameCodeType>01</NameCodeType>
+<NameCodeValue>Hachette Audio</NameCodeValue>
+<PublisherName>Hachette Audio</PublisherName>
+</Publisher>
+<CountryOfPublication>US</CountryOfPublication>
+<PublishingStatus>04</PublishingStatus>
+<PublicationDate>20191015</PublicationDate>
+<SalesRights>
+<SalesRightsType>01</SalesRightsType>
+<RightsCountry>AD AE AF AG AI AL AM AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BQ BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CW CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR SS ST SV SX SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW</RightsCountry>
+</SalesRights>
+<RelatedProduct>
+<RelationCode>13</RelationCode>
+<ProductIdentifier>
+<ProductIDType>02</ProductIDType>
+<IDValue>1546009892</IDValue>
+</ProductIdentifier>
+</RelatedProduct>
+<RelatedProduct>
+<RelationCode>13</RelationCode>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781546009894</IDValue>
+</ProductIdentifier>
+</RelatedProduct>
+<SupplyDetail>
+<SupplierSAN>2002205</SupplierSAN>
+<SupplierName>Hachette Book Group USA</SupplierName>
+<SupplierRole>00</SupplierRole>
+<ReturnsCodeType>02</ReturnsCodeType>
+<ReturnsCode>N</ReturnsCode>
+<AvailabilityCode>IP</AvailabilityCode>
+<ProductAvailability>20</ProductAvailability>
+<OnSaleDate>20191015</OnSaleDate>
+<Price>
+<PriceTypeCode>01</PriceTypeCode>
+<DiscountCoded>
+<DiscountCodeType>02</DiscountCodeType>
+<DiscountCodeTypeName>HBG</DiscountCodeTypeName>
+<DiscountCode>XL</DiscountCode>
+</DiscountCoded>
+<PriceAmount>24.98</PriceAmount>
+<CurrencyCode>USD</CurrencyCode>
+<PriceEffectiveFrom>20200124</PriceEffectiveFrom>
+</Price>
+<Price>
+<PriceTypeCode>01</PriceTypeCode>
+<DiscountCoded>
+<DiscountCodeType>02</DiscountCodeType>
+<DiscountCodeTypeName>HBG</DiscountCodeTypeName>
+<DiscountCode>XL</DiscountCode>
+</DiscountCoded>
+<PriceAmount>30.98</PriceAmount>
+<CurrencyCode>CAD</CurrencyCode>
+<PriceEffectiveFrom>20200124</PriceEffectiveFrom>
+</Price>
+</SupplyDetail>
+</Product>
+</ONIXMessage>
