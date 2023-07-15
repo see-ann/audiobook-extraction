@@ -1,4 +1,4 @@
-## Audiobook XML Parser Readme
+# Audiobook XML Parser
 
 This readme provides an overview of an Audiobook XML Parser, a script that extracts relevant data from an XML file representing audiobook metadata and exports it to an Excel spreadsheet. Additionally, it provides instructions on how to upload the generated Excel file to Google Drive.
 
@@ -18,12 +18,10 @@ To run the Audiobook XML Parser, ensure that you have the following:
 2. Required Libraries: Install the necessary Python libraries by running the following command:
 
    ```
-   pip install pandas openpyxl pydrive
+   pip install -r requirements.txt
    ```
 
-   - `pandas` library is used for data manipulation and exporting to Excel.
-   - `openpyxl` library provides support for Excel file handling.
-   - `pydrive` library is used to interact with Google Drive.
+   This command will install the required libraries specified in the `requirements.txt` file.
 
 3. Google Drive API Setup:
    - Enable the Google Drive API and create credentials for your project. Follow the instructions in the Google Drive API documentation to set up the API: [https://developers.google.com/drive](https://developers.google.com/drive)
@@ -68,4 +66,4 @@ The Audiobook XML Parser is provided as-is without any warranty. Use it at your 
 
 ### Credits
 
-This script was created by [Your Name]. If you have any questions or suggestions, please contact [your@email.com].
+This script was created by Sean Wang. If you have any questions or suggestions, please contact Sean Wang at seanshaochenwang@gmail.com.
